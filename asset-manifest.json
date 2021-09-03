@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/developer/static/css/main.f016f2b9.chunk.css",
+    "main.js": "/developer/static/js/main.5d7773de.chunk.js",
+    "main.js.map": "/developer/static/js/main.5d7773de.chunk.js.map",
+    "runtime-main.js": "/developer/static/js/runtime-main.9afc2353.js",
+    "runtime-main.js.map": "/developer/static/js/runtime-main.9afc2353.js.map",
+    "static/js/2.1cb6a17b.chunk.js": "/developer/static/js/2.1cb6a17b.chunk.js",
+    "static/js/2.1cb6a17b.chunk.js.map": "/developer/static/js/2.1cb6a17b.chunk.js.map",
+    "static/js/3.cceb0f89.chunk.js": "/developer/static/js/3.cceb0f89.chunk.js",
+    "static/js/3.cceb0f89.chunk.js.map": "/developer/static/js/3.cceb0f89.chunk.js.map",
+    "index.html": "/developer/index.html",
+    "static/css/main.f016f2b9.chunk.css.map": "/developer/static/css/main.f016f2b9.chunk.css.map",
+    "static/js/2.1cb6a17b.chunk.js.LICENSE.txt": "/developer/static/js/2.1cb6a17b.chunk.js.LICENSE.txt",
+    "static/media/aleSite2.ef670dbd.png": "/developer/static/media/aleSite2.ef670dbd.png",
+    "static/media/alexanderGamePortfolio.ead5ce0f.png": "/developer/static/media/alexanderGamePortfolio.ead5ce0f.png",
+    "static/media/form.ecca329e.png": "/developer/static/media/form.ecca329e.png",
+    "static/media/pokedex.c7457332.png": "/developer/static/media/pokedex.c7457332.png",
+    "static/media/profile.b0b62788.png": "/developer/static/media/profile.b0b62788.png",
+    "static/media/shoppingList.1ad7aa5a.png": "/developer/static/media/shoppingList.1ad7aa5a.png",
+    "static/media/weatherMontreal.99debe2f.png": "/developer/static/media/weatherMontreal.99debe2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9afc2353.js",
+    "static/js/2.1cb6a17b.chunk.js",
+    "static/css/main.f016f2b9.chunk.css",
+    "static/js/main.5d7773de.chunk.js"
+  ]
+}
