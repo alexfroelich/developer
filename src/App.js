@@ -37,7 +37,7 @@ function App() {
     },
     {
       title: 'Website - Alessandra Froelich',
-      description: 'Website developed for Psycologist Alessandra Froelich-Cim. The responsive layout was developed using CSS (grid and flexbox) and JavaScript',
+      description: 'Website developed for the psycologist Alessandra Froelich-Cim. The responsive layout was developed using CSS (grid and flexbox) and JavaScript',
       keywords: 'HTML5, CSS, JavaScript, Responsive, PHP',
       image: aleSite2,
       link: 'https://www.alessandrafroelich.ca'
