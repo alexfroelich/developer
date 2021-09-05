@@ -12,6 +12,7 @@
     flex: 0 1 calc(30% - 1em);
     padding: 0%;
     transition: 0.5s;
+    outline: none;
     
 }
 .project-card:hover{

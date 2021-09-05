@@ -3,7 +3,7 @@ import './contact.style.css';
 
 export const Contact = () => (
     <div className='contact-div'>
-        <h1 className = 'contact-title'>Contact</h1>
+        <h1 className = 'contact-title title-font-size'>Contact</h1>
             <div className='contact-content'>
               
            

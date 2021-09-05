@@ -84,8 +84,8 @@ function App() {
       {/* <Header/> */}
       <About className="about" profilePhoto={profilePhoto}/>
       <div>
-        <h1 className='projects-title'>Projects</h1>
-        <p>Here you can check my projects</p>
+        <h1 className='projects-title title-font-size'>Projects</h1>
+        {/* <p>Here you can check my projects</p> */}
       </div>
       <div className='content'>
         

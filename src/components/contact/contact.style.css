@@ -1,16 +1,16 @@
 .contact-div{
     
-    border-radius: 5px;
+    /* border-radius: 5px; */
     border-top: solid 1px rgb(34, 34, 34);
     width: 100%;
     margin: auto;
     margin-top: 100px;
-    margin-bottom: 20%;
-    height: 20vh;
+    margin-bottom: 10%;
+    /* height: 20vh; */
     display: grid;
 }
 .contact-title{
-    font-size: 4rem;
+    /* font-size: calc(6rem - 1em); */
     color: rgb(252, 249, 70);
 }
 .contact-name{
@@ -55,3 +55,9 @@
     color: rgb(252, 249, 70);
    cursor: pointer;
 }
+
+@media all and (max-width: 715px) {
+    .contact-content{
+        background-color: transparent;
+    }
+  } 
