@@ -1,38 +1,63 @@
+body{
+  text-align: center;
+  background-color: #282c34;
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+  color: #61dafb;
+  font-family: 'Assistant', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Work Sans', sans-serif;
+  background-color: rgb(19, 19, 19 );
+}
 .App {
   text-align: center;
+  background-color: #282c34;
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+  background-color: rgb(36, 36, 36);
+  background-color: rgb(19, 19, 19 );
+  display: grid;
+  grid-column: 1fr;
+  
+  align-items: center;
+  margin: auto;
+}
+
+.profile-photo:hover{
+  transition: 0.5s;
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+.projects-title{
+  font-size: 6rem;
+  color: rgb(252, 249, 70);
+  
+}
+.projects{
+  /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  row-gap: 50px;
+  justify-content: space-evenly; */
+  width: 80%;
+  margin: auto;
+ display: grid;
+ grid-auto-rows: auto;
+ align-items: center;
+ text-align: center;
+ grid-template-columns: repeat(3, minmax(30%, 2fr));
+ grid-template-columns: repeat(auto-fill, minmax(250px, 350px));
+ justify-content: center;
+  gap: 50px;
+ 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

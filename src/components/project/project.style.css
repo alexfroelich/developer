@@ -1,0 +1,45 @@
+.project-card{
+  
+    /* border: 2px solid rgb(245, 245, 245); */
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+    background-color: #1a1a1a;
+    min-height: 300px;
+    
+    flex: 0 1 calc(30% - 1em);
+    padding: 0%;
+    transition: 0.5s;
+    
+}
+.project-card:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+    cursor: pointer;
+}
+.project-card:hover  h3{
+    transition: 0.5s;
+    color: rgb(252, 249, 70);
+}
+.card-text{
+    width: 80%;
+    margin: auto;
+}
+.card-title{
+    transition: 0.5s;
+    text-align: left;
+   
+}
+.card-description{
+   
+    text-align: justify;
+}
+.card-keywords{
+    font-size: 0.8rem;
+    color: grey;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+ }

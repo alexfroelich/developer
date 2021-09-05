@@ -1,0 +1,57 @@
+.contact-div{
+    
+    border-radius: 5px;
+    border-top: solid 1px rgb(34, 34, 34);
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 20%;
+    height: 20vh;
+    display: grid;
+}
+.contact-title{
+    font-size: 4rem;
+    color: rgb(252, 249, 70);
+}
+.contact-name{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.contact-content{
+   
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    min-width: 350px;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 300px;
+   
+   border-radius: 3px;
+    background-color: #1a1a1a;
+}
+.contact-email{
+    font-size: 24px;
+}
+.contact-items{
+   display: flex;
+   flex-flow: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   
+}
+.contact-link{
+    margin: 10px;
+}
+.contact-text{
+    font-size: 18px;
+    transition: 0.5s;
+   color: gray;
+}
+.contact-text:hover{
+    transition: 0.5s;
+    color: white;
+    color: rgb(252, 249, 70);
+   cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.nav-bar{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(37, 37, 37);
+    z-index: 999;
+   position: fixed;
+    /* column-gap: 10%; */
+    width: 100%;
+    top: 0;
+   
+    height: 5vh;
+    font-size: 1.2rem;
+   flex-wrap: wrap;
+    align-items: center;
+    
+    margin: auto;
+    
+}
+li{
+    margin: auto;
+   font-size: 14px;
+}
+.nav-name{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2rem;
+}
