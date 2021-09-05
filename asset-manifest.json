@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/developer/static/css/main.f016f2b9.chunk.css",
-    "main.js": "/developer/static/js/main.5d7773de.chunk.js",
-    "main.js.map": "/developer/static/js/main.5d7773de.chunk.js.map",
+    "main.css": "/developer/static/css/main.be781485.chunk.css",
+    "main.js": "/developer/static/js/main.accd1794.chunk.js",
+    "main.js.map": "/developer/static/js/main.accd1794.chunk.js.map",
     "runtime-main.js": "/developer/static/js/runtime-main.9afc2353.js",
     "runtime-main.js.map": "/developer/static/js/runtime-main.9afc2353.js.map",
     "static/js/2.1cb6a17b.chunk.js": "/developer/static/js/2.1cb6a17b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cceb0f89.chunk.js": "/developer/static/js/3.cceb0f89.chunk.js",
     "static/js/3.cceb0f89.chunk.js.map": "/developer/static/js/3.cceb0f89.chunk.js.map",
     "index.html": "/developer/index.html",
-    "static/css/main.f016f2b9.chunk.css.map": "/developer/static/css/main.f016f2b9.chunk.css.map",
+    "static/css/main.be781485.chunk.css.map": "/developer/static/css/main.be781485.chunk.css.map",
     "static/js/2.1cb6a17b.chunk.js.LICENSE.txt": "/developer/static/js/2.1cb6a17b.chunk.js.LICENSE.txt",
     "static/media/aleSite2.ef670dbd.png": "/developer/static/media/aleSite2.ef670dbd.png",
     "static/media/alexanderGamePortfolio.ead5ce0f.png": "/developer/static/media/alexanderGamePortfolio.ead5ce0f.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.9afc2353.js",
     "static/js/2.1cb6a17b.chunk.js",
-    "static/css/main.f016f2b9.chunk.css",
-    "static/js/main.5d7773de.chunk.js"
+    "static/css/main.be781485.chunk.css",
+    "static/js/main.accd1794.chunk.js"
   ]
 }
