@@ -34,7 +34,7 @@ body{
   pointer-events: none;
 }
 .projects-title{
-  font-size: 6rem;
+  font-size: calc(6rem - 1em);
   color: rgb(252, 249, 70);
   
 }

@@ -8,7 +8,7 @@ export const About = ({profilePhoto}) => (
     <div className='about-div'>
         <div className='name-div'>
        
-            <h1 className='name'>Alexander Froelich</h1>
+            <h1 className='name'>Alex Froelich</h1>
         </div>
         <div className='content-about'>
         
